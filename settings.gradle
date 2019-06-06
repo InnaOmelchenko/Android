@@ -1,0 +1,1 @@
+include ':app', ':lab1', ':lab1_omelchenko', ':lab2', ':lab2_omelchenko', ':lab3', ':lab3_omelchenko', ':lab4', ':lab4_omelchenko'
